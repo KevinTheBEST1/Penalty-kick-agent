@@ -1,0 +1,17 @@
+Report contains technical details and algorithm. I hope PPT helps too.
+
+Requirements:
+Use Vrep from year 2020
+Follow steps to install pyrep: https://github.com/stepjam/PyRep
+
+To run:
+python3 vrep_test.py 
+
+Results:
+Video: In folder
+
+Suggestions:
+change name "vrep_test.py" to make it look attractive
+Change name of scene file (extension shouldn't change)
+include diagrams and visuals to make attractive.
+
