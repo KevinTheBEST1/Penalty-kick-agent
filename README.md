@@ -24,7 +24,7 @@ rewards and analyzing the best move for both the robots.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="428" alt="penalityKick" src="https://user-images.githubusercontent.com/74253717/133783530-315c15a7-00e8-44a5-9250-0c751694632b.PNG">
 
   
 ## Run Locally
