@@ -1,16 +1,25 @@
-# Penalty-kick-agent
 
-A brief description of what this project does and who it's for
+# Penality Kicks
+
+The aim of this project is to make a robot learn how to
+score a goal during a penalty shootout and also make another
+robot in the same scenario learn how to stop the goal during
+a penalty shootout, so our project is aimed at multi-agent
+learning. We have used reinforcement learning to make both
+the robot learn by spending more and more time collecting
+rewards and analyzing the best move for both the robots.
 
 
-## Deployment
+## Requirements
 
-To deploy this project run
+1. Use Vrep from year 2020
+
+2. For installation of pyrep follow steps from
+
 
 ```bash
-  npm run deploy
+  https://github.com/stepjam/PyRep
 ```
-This is good
 
 
 ## Screenshots
@@ -18,38 +27,22 @@ This is good
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-  
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/KevinTheBEST1/Penalty-kick-agent.git
 ```
 
-Go to the project directory
+Run the project
 
 ```bash
-  cd my-project
+  python3 vrep_test.py 
 ```
+  
+## Demo
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+Insert gif or link to demo
 
   
