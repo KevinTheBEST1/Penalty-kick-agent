@@ -23,8 +23,8 @@ rewards and analyzing the best move for both the robots.
 
 
 ## Screenshots
-
 <img width="428" alt="penalityKick" src="https://user-images.githubusercontent.com/74253717/133783530-315c15a7-00e8-44a5-9250-0c751694632b.PNG">
+<img width="428" alt="2" src="https://user-images.githubusercontent.com/74253717/133784529-0a35c738-6bb7-4954-8238-4b3bdbb483f6.PNG">
 
   
 ## Run Locally
@@ -44,5 +44,9 @@ Run the project
 ## Demo
 
 Insert gif or link to demo
+
+## Authors
+1. Kevin Vora
+2. Maitry Trivedi
 
   
