@@ -60,8 +60,8 @@ You can find the complete demo on this link:
 ```
 
 ## Authors
-1. Kevin Vora
-2. Maitry Trivedi
+- Kevin Vora
+- Maitry Trivedi
 
 
   
