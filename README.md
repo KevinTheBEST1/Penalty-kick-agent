@@ -12,9 +12,9 @@ rewards and analyzing the best move for both the robots.
 
 ## Requirements
 
-1. Use Vrep from year 2020
+- Use Vrep from year 2020
 
-2. For installation of pyrep follow steps from
+- For installation of pyrep follow steps from
 
 
 ```bash
