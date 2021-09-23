@@ -21,9 +21,16 @@ rewards and analyzing the best move for both the robots.
   https://github.com/stepjam/PyRep
 ```
 ## Flow diagram
-The flow chart of the proposed architecture for Penality Kick
+The flow chart of the proposed architecture of Harmony Search Algorithm for optimization Penality Kick agent
 
 <img width="200" alt="flow" src="https://user-images.githubusercontent.com/74253717/133785953-8bfff763-b30e-4ab9-850d-b3469cf8e57d.PNG">
+
+## Algorithm
+- The learning algorithm for Penality Kick agent
+<img width="251" alt="PKAlgo" src="https://user-images.githubusercontent.com/74253717/134454006-85cf1437-ce53-4b13-9aff-532be79a4e5c.PNG">
+
+- Harmonet search algorithm for optimization of Penality Kick agent
+<img width="510" alt="HSAAlgo" src="https://user-images.githubusercontent.com/74253717/134454005-cab80011-e9fb-4737-9ca2-01a02dc75d93.PNG">
 
 ## Screenshots
 <img width="428" alt="penalityKick" src="https://user-images.githubusercontent.com/74253717/133783530-315c15a7-00e8-44a5-9250-0c751694632b.PNG">
