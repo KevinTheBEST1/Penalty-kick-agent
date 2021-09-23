@@ -40,20 +40,20 @@ The flow chart of the proposed architecture of Harmony Search Algorithm for opti
   
 ## Run Locally
 
-Clone the project
+- Clone the project
 
 ```bash
   git clone https://github.com/KevinTheBEST1/Penalty-kick-agent.git
 ```
 
-Run the project
+- Run the project
 
 ```bash
   python3 vrep_test.py 
 ```
   
 ## Demo
-The agent is learned through the environment and can be shown in the demo.
+- The agent is learned through the environment and can be shown in the demo.
 
 ![5naz0u](https://user-images.githubusercontent.com/74253717/133788943-75472d1c-3e7b-41bc-865f-cbc53b0e3955.gif)
 
@@ -61,7 +61,7 @@ The agent is learned through the environment and can be shown in the demo.
 ![5nazsq](https://user-images.githubusercontent.com/74253717/133788967-39003c4e-96e6-4078-8b81-fdf51af1fdad.gif)
 
 ## Demo link
-You can find the complete demo on this link:
+- You can find the complete demo on this link:
 
 ```bash
   https://youtu.be/aWM2EkAvRFw
