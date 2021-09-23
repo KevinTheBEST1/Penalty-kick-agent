@@ -32,7 +32,8 @@ The flow chart of the proposed architecture of Harmony Search Algorithm for opti
 - Harmonet search algorithm for optimization of Penality Kick agent
 <img width="510" alt="HSAAlgo" src="https://user-images.githubusercontent.com/74253717/134454005-cab80011-e9fb-4737-9ca2-01a02dc75d93.PNG">
 
-## Screenshots
+## Environment
+- The environment of the Penality Kick agent and for optimazation through Harmoney Search algorithm are shown  
 <img width="428" alt="penalityKick" src="https://user-images.githubusercontent.com/74253717/133783530-315c15a7-00e8-44a5-9250-0c751694632b.PNG">
 <img width="428" alt="2" src="https://user-images.githubusercontent.com/74253717/133784529-0a35c738-6bb7-4954-8238-4b3bdbb483f6.PNG">
 
