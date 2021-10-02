@@ -20,17 +20,6 @@ rewards and analyzing the best move for both the robots.
 ```bash
   https://github.com/stepjam/PyRep
 ```
-## Flow diagram
-The flow chart of the proposed architecture of Harmony Search Algorithm for optimization Penality Kick agent
-
-<img width="200" alt="flow" src="https://user-images.githubusercontent.com/74253717/133785953-8bfff763-b30e-4ab9-850d-b3469cf8e57d.PNG">
-
-## Algorithm
-- The learning algorithm for Penality Kick agent
-<img width="251" alt="PKAlgo" src="https://user-images.githubusercontent.com/74253717/134454006-85cf1437-ce53-4b13-9aff-532be79a4e5c.PNG">
-
-- Harmonet search algorithm for optimization of Penality Kick agent
-<img width="510" alt="HSAAlgo" src="https://user-images.githubusercontent.com/74253717/134454005-cab80011-e9fb-4737-9ca2-01a02dc75d93.PNG">
 
 ## Environment
 - The environment of the Penality Kick agent and for optimazation through Harmoney Search algorithm are shown  
@@ -40,20 +29,19 @@ The flow chart of the proposed architecture of Harmony Search Algorithm for opti
   
 ## Run Locally
 
-Clone the project
+- Clone the project
 
 ```bash
   git clone https://github.com/KevinTheBEST1/Penalty-kick-agent.git
 ```
 
-Run the project
+- Run the project
 
 ```bash
-  python3 vrep_test.py 
+  python3 penalty_kick.py 
 ```
   
 ## Demo
-The agent is learned through the environment and can be shown in the demo.
 
 ![5naz0u](https://user-images.githubusercontent.com/74253717/133788943-75472d1c-3e7b-41bc-865f-cbc53b0e3955.gif)
 
@@ -61,7 +49,7 @@ The agent is learned through the environment and can be shown in the demo.
 ![5nazsq](https://user-images.githubusercontent.com/74253717/133788967-39003c4e-96e6-4078-8b81-fdf51af1fdad.gif)
 
 ## Demo link
-You can find the complete demo on this link:
+- You can find the complete demo on this link:
 
 ```bash
   https://youtu.be/aWM2EkAvRFw
